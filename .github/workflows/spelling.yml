@@ -103,7 +103,7 @@ jobs:
           checkout: true
           check_file_names: 1
           check_commit_messages: commits, title, description
-          spell_check_this: check-spelling/spell-check-this@prerelease
+          spell_check_this: check-spelling/spell-check-this@v0.0.21
           post_comment: 0
           use_magic_file: 1
           report-timing: 1
